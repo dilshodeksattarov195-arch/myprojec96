@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasespdate",
+        "uuid": 562464,
+        "checksum": "texqzp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
